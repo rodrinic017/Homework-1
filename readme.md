@@ -1,6 +1,5 @@
 In this challe
 
-Here is the deployed URl: https://rodrinic017.github.io/Homework-1/
+Here is the deployed URl: https://rodrinic017.github.io/Horiseon-challenge/
 
-<img src="screenshot.png"
-     alt="screenshot" />
+<img src="./assets/images/screenshot.png" />
