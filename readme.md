@@ -1,4 +1,4 @@
-In this challenge I was required to link all functions correctly
+In this weekly challenge 
 
 Here is the deployed URl: https://rodrinic017.github.io/Horiseon-challenge/
 
